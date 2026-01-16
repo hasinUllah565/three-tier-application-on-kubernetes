@@ -1,4 +1,4 @@
-# #TWSThreeTierAppChallenge
+# #three-tier-application-deployed-on-kubernetes
 
 ## Overview
 This repository hosts the `#TWSThreeTierAppChallenge` for the TWS community. 
